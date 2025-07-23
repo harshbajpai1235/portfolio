@@ -82,7 +82,7 @@ const About = () => {
           {/* Left Side: Name, Title, Quote, and Social Logos */}
           <div className="flex flex-col justify-center max-w-2xl gap-3 h-full">
             <div className="flex-1 flex flex-col justify-center">
-              <h1 className="text-white font-extrabold text-5xl sm:text-6xl lg:text-7xl drop-shadow-2xl" 
+              <h1 className="text-white font-extrabold text-3xl sm:text-4xl lg:text-5xl drop-shadow-2xl" 
                    style={{ 
                      fontFamily: 'Open Sans, Lato, Roboto, sans-serif',
                      textShadow: '0 4px 8px rgba(0,0,0,0.5)',
@@ -90,11 +90,11 @@ const About = () => {
                    }}>
                 Harsh Bajpai
               </h1>
-              <h2 className="text-cyan-400 font-semibold text-xl sm:text-2xl mt-3 drop-shadow-lg animate-pulse" 
+              <h2 className="text-cyan-400 font-semibold text-base sm:text-lg mt-3 drop-shadow-lg animate-pulse" 
                    style={{ animation: 'fadeInUp 0.8s ease-out 0.2s both' }}>
                 Analytical Data & AI Enthusiast
               </h2>
-              <p className="italic text-gray-200 text-lg sm:text-xl mt-3 font-light max-w-lg drop-shadow-md leading-relaxed"
+              <p className="italic text-gray-200 text-sm sm:text-base mt-3 font-light max-w-lg drop-shadow-md leading-relaxed"
                    style={{ animation: 'fadeInUp 0.8s ease-out 0.4s both' }}>
                 "Data is not just numbers — it's a story waiting to be told."
               </p>
