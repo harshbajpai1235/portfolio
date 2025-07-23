@@ -48,7 +48,7 @@ const Projects = () => {
         demoLink: "https://nyc-yellow-taxi-fare-prediction.onrender.com",
         githubLink: "https://github.com/harshbajpai1235/Project-NYC-taxi",
         presentationLink: "https://docs.google.com/presentation/d/e/2PACX-1vQ_HIC8dLub63ggIvUEb0KwH7pSqMLqyJXqnnQAWPC8akwhs7EMK929sa1grBG845dYBvY-weAtsTr2/pub?start=false&loop=false&delayms=3000",
-        reportLink: "/portfolio/public/portfolio/documents/nyc-taxi-report.pdf"
+        reportLink: "/portfolio/nyc-taxi-report.pdf"
     },
     {
       id: 2,
@@ -86,7 +86,7 @@ const Projects = () => {
       learnings: "Genre alone doesn’t dictate success—language, theme, and emotional pull matter. Combining multiple metrics (ratings, popularity, votes) yields better acquisition strategies. Viewer behavior often elevates ‘hidden gems’ that lack exposure but perform well.",
       recommendations: "Focus on rising genres like Sci-Fi and Animation to engage younger viewers. Promote emotionally resonant themes like family, heroism, and true stories. Develop a hybrid success metric for smarter content acquisition.",
       githubLink: "https://github.com/harshbajpai1235/Netflix-Movie-Insights",
-      reportLink: "/portfolio/public/portfolio/documents/netflix.pdf"
+      reportLink: "/portfolio/netflix.pdf"
     },
     {
       id: 3,
@@ -120,7 +120,7 @@ const Projects = () => {
       recommendations: "Adjust pricing strategies during peak cancellation periods (e.g., January). Reduce OTA dependency by offering better incentives for direct bookings. Offer loyalty perks and weekend discounts to improve city hotel retention. Launch country-specific promotions in high-cancellation regions like Portugal.",
       learnings: "I developed a deeper understanding of customer behavior, pricing sensitivity, and booking dynamics. This project strengthened my ability to translate insights into business actions and reinforced the importance of segment-specific strategies in BI.",
       githubLink: "https://github.com/harshbajpai1235/Hotel-Booking-Cancellation-Analysis",
-      reportLink: "/portfolio/public/portfolio/documents/hotel.pdf"
+      reportLink: "/portfolio/hotel.pdf"
     },
     {
       id: 4,
